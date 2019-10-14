@@ -1,3 +1,3 @@
 # profile
-First Web Page
+Web Pages
 https://gordon-man.github.io/profile/
